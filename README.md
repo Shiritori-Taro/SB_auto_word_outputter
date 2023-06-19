@@ -2,7 +2,7 @@
 SB_auto_word_outputterとはその名の通りアプリ「しりとりバトル」において文字の読み込みから出力を自動で行うツールです。
 
 ## 動作に必要な物
-- Python
+- Python  (https://www.python.org/)
   
 - Tesseract  (https://github.com/UB-Mannheim/tesseract/wiki/)
 
