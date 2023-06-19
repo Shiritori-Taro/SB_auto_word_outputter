@@ -4,7 +4,7 @@ SB_auto_word_outputterとはその名の通りアプリ「しりとりバトル�
 ## 動作に必要な物
 - Python
   
-- Tesseract  https://github.com/UB-Mannheim/tesseract/wiki/
+- Tesseract  (https://github.com/UB-Mannheim/tesseract/wiki/)
 
 - (Visual Studio Code)
   
